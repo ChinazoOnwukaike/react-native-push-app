@@ -36,6 +36,15 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "49379739-ff17-4e20-af40-c64f00496163"
+      }
+    },
+    "owner": "chinazoonwukaike"
   }
 }
